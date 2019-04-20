@@ -290,11 +290,17 @@ main {
   /* Box-model */
   width: 100%;
 
+  heigh: 100%;
+
   /* Visual */
   border: 0 none;
 
   /* Misc */
   opacity: 0.8;
+}
+
+img {
+  height: 275px;
 }
 
 .work h3 {
@@ -468,6 +474,3 @@ input[type=submit] {
     margin-left: 0;
   }
 }
-
-
-
